@@ -1,0 +1,65 @@
+
+
+.customCont {
+    margin-left: 1%;
+}
+
+div.navigation {
+    position: relative;
+    height: 5%;
+    margin-bottom: 3%;
+}
+
+img {
+    height: 30px;
+    width: 100px;
+    background-color: aliceblue;
+}
+
+.table {
+    table-layout: auto;
+    margin-left: auto;
+}
+
+.table td, .table th{
+    white-space: nowrap;
+    text-align: left;
+}
+
+.active{
+    color: rgb(49, 47, 47);
+}
+
+.cust {
+    margin-top: 0;
+}
+.row {
+    margin: 0%;
+    padding: 0;
+}
+
+footer {
+    margin-top: 10%;
+    height: 5%;
+}
+
+footer a, footer h5, footer p{
+    font-size: small;
+}
+
+.nav0{
+    margin-right: 7%;
+}
+
+ul.drop {
+    font-size: small;
+}
+
+div.modalB p{
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.input-group input{
+    width: 17%;
+}
